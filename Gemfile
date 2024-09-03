@@ -1,7 +1,7 @@
 
 source "https://rubygems.org"
-gem multi_xml
-gem bigdecimal
+gem 'multi_xml'
+gem 'bigdecimal'
 gem 'json', '~> 2.7', '>= 2.7.2'
 gem "httparty"
 gem "rake"
