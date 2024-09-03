@@ -1,7 +1,7 @@
 
-source "http://rubygems.org"
+source "https://rubygems.org"
 
-gem "json"
+gem 'json', '~> 2.7', '>= 2.7.2'
 gem "httparty"
 gem "rake"
 gem "minitest", require: false
